@@ -1,4 +1,6 @@
-Git is a version control system.
+Git is a softwar version distribution control system.
 Git is free software.
-Git is a new version
+My name is LHM
+
+
 
