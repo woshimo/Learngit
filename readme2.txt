@@ -5,3 +5,5 @@ this is new line
 this is second line
 
 I am stupid. I have made a mistake again.
+
+I write a line for Fox
